@@ -1,3 +1,4 @@
-# Glabs_Application_Flipcards
+# Glabs Application Flipcards
 
-Download/Clone this Repo and Install into the js/Application Folder on the Glabs Shell
+Download/Clone this Repo and Install into the js/Application Folder on the Glabs Shell.
+
