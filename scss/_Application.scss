@@ -19,4 +19,9 @@
       @import "./_Card_Flip.scss";
       @import "./_Card_Media.scss";
       @import "./_Card_btns.scss";
+
+
     }
+
+    // IE 11 Fix
+    @import "./_ie_fix.scss";
